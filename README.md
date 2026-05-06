@@ -16,17 +16,42 @@ We first loaded the NRI census tracts data is loaded into Python and separated i
 
 #### Results
 Overall, the data showed Nebraska and Kansas are the most at risk of community damage according to the NRI definition. However, Oklahoma historically has recorded the most tornadoes. For eastern vs. Western states, we did find a significant trend that shows tornadoes decreasing in frequency in the west, while increasing in the east.
+
+#### Conclusion
+These results support the possibility of an eastward shift in tornado activity across the selected region. This means that eastern states may need increased investment in tornado warning systems, emergency response planning, and building resilience. This trend may be due to a natural cycle of tornado alley shift, or the result of climate change. However, the results also show that tornado risk differs depending on how risk is measured, so risk should be evaluated using both hazard frequency and exposure-based loss metrics. Also, due to the NRI using a long-term average from 1950 to the present, replacing its annualized frequency calculation with a 25-year average would better reflect current tornado risk and help distribute mitigation funding more fairly.
+
+
+
 #
 ## Repository Contents
 
+-(RAW Files): The raw data files used in the Python code file for each of our identified states at the Census Tract Level and rthe metadate from the NRI website.
 
+-(CLEAN Files): The clean data files used in the Python code file for each of our identified states at the Census Tract Level and the metadate from the NRI website.
+
+-(CIVE202_Spring 2026_INFRA-02-15_Project 5_Python Code.ipynb): Python code 
+
+-(CIVE202_Spring 2026_INFRA-02-15_Project 5_ACD.docx): Includes a line-by-line explanation of code.
+
+-(CIVE202_Spring2026_INFRA-02-15_Project 5_Gantt Chart.xlsx): Contains Gantt Chart table with project plans and work time frames. 
+
+-(CIVE202_Spring2026_INFRA-02-15_Project 5_SOW.docx): Contains Scope of Work outlining project's goals and defines the tasks to conducting our risk analysis study.
+
+-(CIVE202_Spring 2026_INFRA-02-15_Project 5_Report.docx): Written report including Scope of Work, Technical and Non-Technical Summaries, and Results and Discussion
+
+-(CIVE202_Spring 2026_INFRA-02-15_Project 5_Timesheet.xlsx): Contains Engineer Timesheet showing time, date and tasks worked on by each team member as well as compensation. 
+
+-(README): Documentation and user guide for this project.
 
 #
 ## User Guide
+1. Open attached Python Code 
+2. Download required libraries:Numpy, Pandas, Seaborn, Matplotlib, Geopandas
+3. Download all .csv data files and make sure they are in the same folder as the project code
+4. Run each section in order
+5. The notebook should display all graphs from the analysis
 
 
-#
-## Conclusion
 
 
 
