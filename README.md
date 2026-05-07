@@ -25,7 +25,7 @@ These results support the possibility of an eastward shift in tornado activity a
 #
 ## Repository Contents
 
--[Raw Data Files](Tornado_Data.csv) : The raw data files used in the Python code file for each of our identified states at the Census Tract Level and the metadata from the NRI website.
+-[Tornado Raw Data File](Tornado_Data.csv) : The raw data files used in the Python code file for each of our identified states at the Census Tract Level and the metadata from the NRI website.
 
 -[Python Code](CIVE202_Spring2026_GroupINFRA-02-15_Project5_PythonCode.ipynb) : Contains the complete coding solution to the client's requests
 
