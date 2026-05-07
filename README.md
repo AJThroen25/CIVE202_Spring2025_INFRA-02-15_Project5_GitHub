@@ -37,7 +37,7 @@ These results support the possibility of an eastward shift in tornado activity a
 
 -[Scope of Work](CIVE202_Spring2026_GroupINFRA-02-15_Project5_SOW.docx) : Contains Scope of Work outlining project's goals and defines the tasks to conducting our risk analysis study.
 
--[Written Report](CIVE202_Spring2026_GroupINFRA-02-15_Project5_Report.docx) : Written report including Scope of Work, Technical and Non-Technical Summaries, and Results and Discussion
+-[Written Report](CIVE202_Spring2026_GroupINFRA-02-15_Project5_Report.docx) : Written report including Scope of Work, Technical and Non-Technical Summaries, Analysis of Bias, and Results and Discussion
 
 -(CIVE202_Spring 2026_INFRA-02-15_Project 5_Timesheet.xlsx): Contains Engineer Timesheet showing time, date and tasks worked on by each team member as well as compensation. 
 
