@@ -39,9 +39,7 @@ These results support the possibility of an eastward shift in tornado activity a
 
 -[Written Report](CIVE202_Spring2026_GroupINFRA-02-15_Project5_Report.docx) : Written report including Scope of Work, Technical and Non-Technical Summaries, Analysis of Bias, and Results and Discussion
 
--(CIVE202_Spring 2026_INFRA-02-15_Project 5_Timesheet.xlsx): Contains Engineer Timesheet showing time, date and tasks worked on by each team member as well as compensation. 
-
--(README): Documentation and user guide for this project.
+-[Timesheet](CIVE202_Spring2026_GroupINFRA-02-15_Project5_Timesheet.xlsx) : Contains Engineer Timesheet showing time, date and tasks worked on by each team member as well as compensation. 
 
 #
 ## User Guide
