@@ -44,8 +44,9 @@ These results support the possibility of an eastward shift in tornado activity a
 1. Open attached Python Code 
 2. Download required libraries:Numpy, Pandas, Seaborn, Matplotlib, Geopandas
 3. Download all .csv data files and make sure they are in the same folder as the project code
-4. Run each section in order
-5. The notebook should display all graphs from the analysis
+4. Download NRI CSV at https://www.fema.gov/about/reports-and-data/openfema/nri/v120/NRI_Table_CensusTracts.zip
+5. Run each section in order
+6. The notebook should display all graphs from the analysis
 
 
 
