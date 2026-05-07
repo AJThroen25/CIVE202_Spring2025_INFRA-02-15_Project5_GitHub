@@ -33,7 +33,7 @@ These results support the possibility of an eastward shift in tornado activity a
 
 -(CIVE202_Spring 2026_INFRA-02-15_Project 5_ACD.docx): Includes a line-by-line explanation of code.
 
--(CIVE202_Spring2026_INFRA-02-15_Project 5_Gantt Chart.xlsx): Contains Gantt Chart table with project plans and work time frames. 
+-[Gantt Chart](CIVE202_Spring2026_GroupINFRA-02-15_Project5_GanttChart.xlsx) : Contains Gantt Chart table with project plans and work time frames. 
 
 -[Scope of Work](CIVE202_Spring2026_GroupINFRA-02-15_Project5_SOW.docx) : Contains Scope of Work outlining project's goals and defines the tasks to conducting our risk analysis study.
 
